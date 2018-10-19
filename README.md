@@ -7,7 +7,7 @@ Therefore these scene changes can be extracted by FFchapters which will create a
 
 ## Workflow
 The workflow is:
-* generate with FFMpeg a raw log file which contains the the scene changes
+* generate with FFmpeg a raw log file which contains the the scene changes
 * generate with FFchapters a regular chapter file out of this raw log file
 
 ## Example
