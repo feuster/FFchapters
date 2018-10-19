@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Windows x86_64 (64Bit)"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="FFchapters.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="443"/>
+        <CursorPos X="84" Y="471"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="24" HistoryIndex="23">
+      <Position1>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="335" TopLine="302"/>
+      </Position1>
+      <Position2>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="109" Column="30" TopLine="87"/>
+      </Position2>
+      <Position3>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="108" Column="9" TopLine="88"/>
+      </Position3>
+      <Position4>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="110" Column="49" TopLine="81"/>
+      </Position4>
+      <Position5>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="112" Column="32" TopLine="81"/>
+      </Position5>
+      <Position6>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="111" Column="26" TopLine="91"/>
+      </Position6>
+      <Position7>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="104" Column="56" TopLine="89"/>
+      </Position7>
+      <Position8>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="44" Column="54" TopLine="27"/>
+      </Position8>
+      <Position9>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="104" Column="55" TopLine="86"/>
+      </Position9>
+      <Position10>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="134" Column="71" TopLine="104"/>
+      </Position10>
+      <Position11>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="50" TopLine="43"/>
+      </Position11>
+      <Position12>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="128" Column="56" TopLine="107"/>
+      </Position12>
+      <Position13>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="168" Column="43" TopLine="138"/>
+      </Position13>
+      <Position14>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="312" Column="33" TopLine="302"/>
+      </Position14>
+      <Position15>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="154" Column="65" TopLine="135"/>
+      </Position15>
+      <Position16>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="187" Column="19" TopLine="167"/>
+      </Position16>
+      <Position17>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="145" Column="37" TopLine="118"/>
+      </Position17>
+      <Position18>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="383" Column="28" TopLine="375"/>
+      </Position18>
+      <Position19>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="407" Column="29" TopLine="387"/>
+      </Position19>
+      <Position20>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="110" Column="132" TopLine="85"/>
+      </Position20>
+      <Position21>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="113" Column="130" TopLine="90"/>
+      </Position21>
+      <Position22>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="4" Column="12"/>
+      </Position22>
+      <Position23>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="146" Column="24" TopLine="122"/>
+      </Position23>
+      <Position24>
+        <Filename Value="FFchapters.lpr"/>
+        <Caret Line="472" Column="123" TopLine="444"/>
+      </Position24>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
