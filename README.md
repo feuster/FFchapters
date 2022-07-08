@@ -5,6 +5,8 @@ Movies for e.g. created from TV recordings do not have any chapters. These chapt
 FFmpeg is capable of finding scene changes via video filter. The problem is that FFmpeg does not create a regular chapter file out of this information.
 Therefore these scene changes can be extracted by FFchapters which will create a standard chapter file usable for e.g. with Matroska.
 
+FFchapters is discontinued. Please refer to the new [FFchapters2 Project](https://github.com/feuster/FFchapters2).
+
 ## Workflow
 The workflow is:
 * generate with FFmpeg a raw log file which contains the the scene changes
